@@ -1,0 +1,118 @@
+.login{
+    max-width: 48rem;
+    display: grid;
+    height: 100vh;
+    margin: auto;
+    grid-template-rows: 15rem 9.1rem 9.1rem 9.1rem 9.1rem 9.1rem 7.1rem 7.1rem 7.1rem;
+    
+    padding: 2rem 0rem 0rem 0rem;
+}
+.titutlo{
+    padding-left: 2rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26.4516px;
+    line-height: 40px;
+    padding: 2rem;
+    margin-top: 3rem;
+}
+.items{
+    
+    border-bottom: 1px solid black;
+   
+}
+.items h1{
+    padding: 3.4rem 0rem 0rem 2rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: rgb(102, 101, 101);
+}
+.items span{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 10px;
+    padding:  0rem 0rem 0rem 2rem;  
+    color: rgb(148, 147, 147);
+}
+.itemss{
+    border-bottom: 1px solid black;
+}
+.itemss h1{
+    padding: 3.5rem 0rem 0rem 2rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: rgb(102, 101, 101);
+}
+.itemss span{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 10px;
+    padding:  0rem 0rem 0rem 2rem;  
+    color: rgb(148, 147, 147);
+}
+.items-1{
+    place-items: center;
+}
+.cuadro{
+    float: left;
+    width: 1.8rem;
+    height: 1.8rem;
+    border: 1px solid black;
+    margin-top: 2.3rem;
+    margin-left: 2rem;
+}
+.lc{
+      float: left;
+      margin-top: 2.6rem;
+      margin-left: 1rem;
+      color: rgb(148, 147, 147);
+}
+.items-2{
+    width: 37rem;
+    height: 5.8rem;
+    background-color: black;
+    color: white;
+    margin: auto;
+    text-decoration: none;
+    border: 1px solid #000000;
+    border-radius: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 30px;
+    border: 1px solid #000000;
+    padding: 1rem;
+    text-align: center;
+}
+.items-3{
+    padding: 2rem 0 0 8rem;
+}
+.items-3 span{
+    float: left;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.2643px;
+    line-height: 20px;
+}
+.items-3 h1{
+    float: left;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16.2539px;
+    line-height: 23px;
+    padding: 0 0 0 1rem;
+}
